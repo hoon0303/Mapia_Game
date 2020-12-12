@@ -1,0 +1,15 @@
+﻿  DotComBust.c
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(26): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(90): warning C4047: '함수': 'char *'의 간접 참조 수준이 'SListData *'과(와) 다릅니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(90): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(105): warning C4013: 'gridearray_printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(106): warning C4013: 'top_rank'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(107): warning C4013: 'work_printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(108): warning C4013: 'numOfGuesses_printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(123): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'SListData *'입니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(168): warning C4013: '_strdate'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(169): warning C4013: '_strtime'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(173): warning C4013: 'access'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\훈\desktop\한조 닷컴게임\cdotcom\dotcombust.c(224): warning C4013: 'booting'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  CDotcom.vcxproj -> C:\Users\훈\Desktop\한조 닷컴게임\Debug\CDotcom.exe
+  CDotcom.vcxproj -> C:\Users\훈\Desktop\한조 닷컴게임\Debug\CDotcom.pdb (Full PDB)
