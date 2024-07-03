@@ -4,26 +4,6 @@ Mapia_Game is an interactive game project that appears to simulate a strategic g
 
 The project includes source files written in C. You need a C compiler like `gcc` to build the project.
 
-## Game Mechanics
-### Characters and Initialization:
-The game involves initializing several characters (DotCom), which are managed through dynamic memory allocation. Each character is given a specific name based on the game state.
-
-### Game Play:
-The main gameplay involves a series of guesses. The game reads saved data if available and continues until the player completes the required actions
-
-### Saving and Loading:
-The game supports saving the current state to a file (savedata.txt) and loading from it, allowing players to resume from where they left off.
-
-## Additional Functions
-### Display Grid:
-The game includes a function to print a visual grid representing the game state.
-
-### Top Rank:
-The game keeps track of top ranks and displays them.
-
-### Work and Guess Count:
-Functions to display the current character’s work and the number of guesses.
-
 ## File Structure
 ```plaintext
 Mapia_Game
@@ -43,3 +23,24 @@ Mapia_Game
     ├── CDotcom.sln           # Solution File
     ├── CDotcom.VC.db         # Database File
     └── CDotcom.sdf           # SQL Server Compact Database File
+```
+
+## Game Mechanics
+### Characters and Initialization:
+The game involves initializing several characters (DotCom), which are managed through dynamic memory allocation. Each character is given a specific name based on the game state.
+
+### Game Play:
+The main gameplay involves a series of guesses. The game reads saved data if available and continues until the player completes the required actions
+
+### Saving and Loading:
+The game supports saving the current state to a file (savedata.txt) and loading from it, allowing players to resume from where they left off.
+
+## Additional Functions
+### Display Grid:
+The game includes a function to print a visual grid representing the game state.
+
+### Top Rank:
+The game keeps track of top ranks and displays them.
+
+### Work and Guess Count:
+Functions to display the current character’s work and the number of guesses.
